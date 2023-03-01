@@ -1,0 +1,4 @@
+
+.icon-keyboard:before { content: '\e800'; } /* '' */
+.icon-flash:before { content: '\e804'; } /* '' */
+.icon-lamp:before { content: '\e805'; } /* '' */
